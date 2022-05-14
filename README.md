@@ -1,4 +1,7 @@
 # Git_hex
 First repository created by me.
 
-# A line
+# Smeet panchal
+## A student of itmbu
+
+#### Learning about git and github
